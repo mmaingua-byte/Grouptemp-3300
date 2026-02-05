@@ -1,0 +1,16 @@
+DELIVERABLE 1 FILE LOCATIONS
+
+README:
+- /README.txt
+
+Folder structure:
+- /src
+- /docs/planning
+- /docs/meeting-minutes
+- /docs/reports
+- /docs/risk
+- /slides
+- /assets
+
+Meeting Minutes:
+- /docs/meeting-minutes/MeetingMinutes_2026-02-04.txt
