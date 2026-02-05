@@ -1,0 +1,36 @@
+MEETING MINUTES
+Team: GROUP TEMP
+Date: 2026-01-31
+Time: 7:00 PM – 8:00 PM
+Platform: Zoom
+
+Attendees:
+- Sayed Babiker  
+- Chukwudera Duru 
+- Nathaniel Joseph
+- Madina Maingua 
+- Alvin Ododa
+- Yashwanth Pentakota
+
+
+Agenda:
+- Select the team leader
+- Set up GitHub repository
+- Create folder structure
+- Assign Deliverable 1 tasks
+- Identify top 3 project risks
+
+Discussion Summary:
+- Team leader was selected.
+- GitHub repository was created and shared with all team members and TA.
+- Required folders were added to the repository.
+- Tasks for Deliverable 1 were assigned among team members.
+- Initial risks related to scope, integration, and time management were discussed.
+
+Action Items:
+- Finalize Deliverable 1 PDF 
+- Prepare Deliverable 1 slides 
+- Update Trello Kanban board 
+
+Next Meeting:
+Date: To be decided
