@@ -1,0 +1,47 @@
+MEETING MINUTES
+
+Team: GROUP TEMP
+Date: 2026-02-15
+Time: 7:00 PM – 8:30 PM
+Platform: Zoom
+
+Attendees:
+- Sayed Babiker
+- Chukwudera Duru
+- Nathaniel Joseph
+- Madina Maingua
+- Alvin Ododa
+- Yashwanth Pentakota
+
+Agenda:
+- Review Deliverable 2 requirements
+- Finalize System Structure section
+- Finalize Functional Requirements (FRs)
+- Finalize Non-Functional Requirements (NFRs)
+- Review the Interfaces section
+- Confirm Development Phases
+- Assign final edits and formatting tasks
+
+Discussion Summary:
+- The team reviewed the complete Deliverable 2 document for clarity and structure.
+- System architecture was confirmed as serverless using AWS (API Gateway, Lambda, DynamoDB).
+- Functional Requirements (FR-1 through FR-15) were reviewed and refined with acceptance criteria.
+- Non-Functional Requirements (Scalability, Availability, Security, Reliability, etc.) were finalized.
+- Interfaces section (User, Hardware, Software, Communication) was completed and aligned with the system diagram.
+- Three development phases were confirmed:
+  1. Core System Implementation
+  2. Context Management & Enhancements
+  3. Optimization & Deployment Readiness
+- Minor wording edits were suggested to improve consistency and formatting.
+- Contribution table percentages were verified and approved.
+
+Action Items:
+- Final formatting and proofreading before submission
+- Verify diagram clarity in PDF
+- Upload final PDF to Canvas
+- Push the final version to the GitHub repository
+- Confirm submission before deadline
+
+Next Meeting:
+Date: To be determined
+Purpose: Prepare for Deliverable 3 planning
