@@ -1,0 +1,24 @@
+Meeting Minutes – GroupTemp
+
+Date: April 3, 2026
+Time: 6:00 PM
+
+Members Present:
+- Madina Maingua
+- Team Member 2
+- Team Member 3
+
+Discussion:
+- Reviewed Deliverable 3 requirements
+- Confirmed project topic and features
+- Divided GitHub and report responsibilities
+
+Tasks Assigned:
+- Madina: GitHub setup and source code
+- Member 2: UML diagrams
+- Member 3: report assembly and formatting
+
+Next Steps:
+- Upload working source code
+- Add Note-deliverable-3
+- Finalize inspection and main report files
