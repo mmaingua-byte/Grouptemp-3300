@@ -1,12 +1,15 @@
 Meeting Minutes – GroupTemp
 
-Date: April 3, 2026
+Date: April 4, 2026
 Time: 6:00 PM
 
 Members Present:
 - Madina Maingua
-- Team Member 2
-- Team Member 3
+- Yashwanth Pentakota
+- Nathaniel Joseph
+- Sayed Babiker
+- Alvin Ododa
+- Chukwudera Duru
 
 Discussion:
 - Reviewed Deliverable 3 requirements
@@ -14,9 +17,12 @@ Discussion:
 - Divided GitHub and report responsibilities
 
 Tasks Assigned:
-- Madina: GitHub setup and source code
-- Member 2: UML diagrams
-- Member 3: report assembly and formatting
+- Madina: GitHub setup
+- Yashwanth Pentakota: Source code
+- Sayed Babiker : UML diagrams
+- Nathaniel Joseph: report assembly and formatting
+- Chukwudera Duru: Code setup
+- Alvin Ododa: Report
 
 Next Steps:
 - Upload working source code
