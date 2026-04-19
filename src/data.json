@@ -1,0 +1,36 @@
+{
+  "guests": [
+    {
+      "guest_id": "G1001",
+      "name": "John Doe",
+      "phone": "704-555-1001",
+      "email": "john.doe@example.com",
+      "vip": true
+    },
+    {
+      "guest_id": "G1002",
+      "name": "Sarah Lee",
+      "phone": "704-555-1002",
+      "email": "sarah.lee@example.com",
+      "vip": false
+    }
+  ],
+  "reservations": [
+    {
+      "reservation_id": "R2001",
+      "guest_id": "G1001",
+      "room_type": "King Suite",
+      "status": "Checked-Out",
+      "check_in": "2026-04-10",
+      "check_out": "2026-04-13"
+    },
+    {
+      "reservation_id": "R2002",
+      "guest_id": "G1002",
+      "room_type": "Double Room",
+      "status": "Pending",
+      "check_in": "2026-04-12",
+      "check_out": "2026-04-14"
+    }
+  ]
+}

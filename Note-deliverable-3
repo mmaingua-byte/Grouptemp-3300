@@ -1,0 +1,24 @@
+TEAM PROJECT – DELIVERABLE 3
+Team Name: GroupTemp
+
+This file lists all Deliverable 3 components and their locations in the GitHub repository.
+
+1. Source Code (Phase 1)
+Location: /src
+Description: Contains all source code files for the working program, including main execution, agent logic, tools, configuration, and UI components.
+
+2. Core Functionalities Inspection Document
+Location: /inspection-code-grouptemp
+Description: Document containing the core functionalities of the system, including relevant source code and explanations for inspection.
+
+3. Main Report (Team Deliverable-3.pdf)
+Location: /Team Deliverable-3.pdf
+Description: Includes requirements, UML diagrams, user manual, run instructions, reflection, and contribution table.
+
+4. Meeting Minutes
+Location: /docs/meeting-minutes
+Description: Updated meeting minutes documenting team discussions and progress.
+
+5. Additional Project Materials
+Location: /docs, /assets, /slides
+Description: Supporting materials such as planning documents, diagrams, images, and presentation slides.
