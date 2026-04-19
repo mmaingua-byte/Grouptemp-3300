@@ -1,9 +1,12 @@
-import streamlit as st
 from pathlib import Path
-from config import LOG_FILE
+
+import streamlit as st
+
+from config import APP_NAME, APP_VERSION, LOG_FILE
 
 st.set_page_config(page_title="Voice Agent Logs", layout="wide")
-st.title("Hotel AI Voice Agent Logs")
+st.title(f"{APP_NAME} Logs")
+st.caption(f"Version {APP_VERSION}")
 
 log_path = Path(LOG_FILE)
 
