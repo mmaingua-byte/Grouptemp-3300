@@ -1,0 +1,168 @@
+Team Deliverable 5 - Note File
+
+Project: Hotel AI Voice Agent
+Course: ITIS 3300 (Spring 2026)
+Repository: Grouptemp-3300
+
+This file lists all deliverables and their locations in the repository.
+
+--------------------------------------------------
+
+1. Report
+Location: /Team Deliverable-5.pdf
+Description:
+Final report containing requirements, UML diagrams (class, sequence, use case),
+user manual, compile/run instructions, test cases, reflection, and member contributions.
+
+--------------------------------------------------
+
+2. Source Code
+Location: /src/
+
+Files:
+- agent.py (handles main agent logic and NLP processing)
+- main.py (program entry point)
+- tools.py (reservation and guest operations)
+- config.py (system configuration and constants)
+- db_setup.py (initializes JSON data)
+- ui_log_viewer.py (Streamlit interface for logs)
+- data.json (mock database)
+
+--------------------------------------------------
+
+3. Test Cases
+Location: Included in report and/or /tests/ folder
+
+Description:
+Contains unit tests and system (functional) tests validating:
+- Guest lookup
+- Reservation lookup
+- Status updates
+- Natural language commands
+- Error handling
+
+--------------------------------------------------
+
+4. UML Diagrams
+Location: Included in Team Deliverable-5.pdf
+
+Includes:
+- Class Diagram
+- Sequence Diagram
+- Use Case Diagram
+
+--------------------------------------------------
+
+5. Meeting Minutes (UPDATED)
+Location: /Team Deliverable 5 - Note File
+
+Project: Hotel AI Voice Agent
+Course: ITIS 3300 (Spring 2026)
+Repository: Grouptemp-3300
+
+This file lists all deliverables and their locations in the repository.
+
+--------------------------------------------------
+
+1. Report
+Location: /Team Deliverable-5.pdf
+Description:
+Final report containing requirements, UML diagrams (class, sequence, use case),
+user manual, compile/run instructions, test cases, reflection, and member contributions.
+
+--------------------------------------------------
+
+2. Source Code
+Location: /src/
+
+Files:
+- agent.py (handles main agent logic and NLP processing)
+- main.py (program entry point)
+- tools.py (reservation and guest operations)
+- config.py (system configuration and constants)
+- db_setup.py (initializes JSON data)
+- ui_log_viewer.py (Streamlit interface for logs)
+- data.json (mock database)
+
+--------------------------------------------------
+
+3. Test Cases
+Location: Included in report and/or /tests/ folder
+
+Description:
+Contains unit tests and system (functional) tests validating:
+- Guest lookup
+- Reservation lookup
+- Status updates
+- Natural language commands
+- Error handling
+
+--------------------------------------------------
+
+4. UML Diagrams
+Location: Included in Team Deliverable-5.pdf
+
+Includes:
+- Class Diagram
+- Sequence Diagram
+- Use Case Diagram
+
+--------------------------------------------------
+
+5. Meeting Minutes (UPDATED)
+Location: /meeting_minutes_phase3.txt
+
+Description:
+Contains updated meeting notes for Phase III.
+(Note: Not included in report as required by assignment instructions.)
+
+--------------------------------------------------
+
+6. Run Instructions
+Location: Included in report
+
+Commands:
+- pip install -r requirements.txt
+- python src/db_setup.py
+- python src/main.py
+- streamlit run src/ui_log_viewer.py
+- python -m unittest discover
+
+--------------------------------------------------
+
+All required Deliverable 5 components have been completed and organized.
+
+Team Members:
+- Madina Maingua
+- Donovan
+- Ro
+- (add remaining members)
+.txt
+
+Description:
+Contains updated meeting notes for Phase III.
+(Note: Not included in report as required by assignment instructions.)
+
+--------------------------------------------------
+
+6. Run Instructions
+Location: Included in report
+
+Commands:
+- pip install -r requirements.txt
+- python src/db_setup.py
+- python src/main.py
+- streamlit run src/ui_log_viewer.py
+- python -m unittest discover
+
+--------------------------------------------------
+
+All required Deliverable 5 components have been completed and organized.
+
+Team Members:
+- Madina Maingua
+- Yashwanth Pentakota
+- Nathaniel Joseph
+- Alvin Ododa
+- Chukwudera Duru
+- Sayed Babiker
