@@ -110,7 +110,7 @@ Includes:
 --------------------------------------------------
 
 5. Meeting Minutes (UPDATED)
-Location: /meeting_minutes_phase3.txt
+Location: docs/meeting-minutes/meeting_minutes_phase3.txt
 
 Description:
 Contains updated meeting notes for Phase III.
