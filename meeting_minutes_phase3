@@ -1,1 +1,81 @@
+Meeting Minutes – Phase III
+Project: Hotel AI Voice Agent
+Course: ITIS 3300 (Spring 2026)
+Date: April 25, 2026
+Time: 7:00 PM
+Location: Zoom
+
+---
+
+Attendees:
+
+* Madina Maingua
+* Alvin Ododa
+* Nathaniel Joseph
+* Yashwanth Pentakota
+* Sayed Babiker
+* Chukwudera Duru
+
+---
+
+Agenda:
+
+* Complete Deliverable 5
+* Examine system functions
+* Verify test cases and results
+* Check UML diagrams
+* Allocate final report parts
+* Get ready to submit
+
+---
+
+Discussion Summary:
+We discussed Deliverable 5 and finalized all its requirements. We analyzed the Hotel AI Voice Agent, 
+which now has all features in place, such as guest profile lookup, handling of reservations, processing 
+of natural language commands, logging, and Streamlit log viewer.The team confirmed that all requirements 
+for Deliverable 5 from previous deliverables have been incorporated, and some enhancements have been made 
+in the process. These include validation of inputs, handling of invalid entries, missing IDs, and wrong 
+commands.
+
+We examined the UML diagrams and confirmed that all class, sequence, and use case diagrams are correct. A few 
+modifications were made. Test cases were also reviewed and confirmed. They include testing of functionalities 
+at the unit level and the entire system level. All functionalities, such as look up, update, listing, and 
+command processing, were thoroughly tested with valid and invalid entries.
+
+Decisions Made:
+
+* Preserve JSON based data storage in this stage 
+* Mention system constraints (lack of database, limited NLP capability) in the documentation
+* Mention future enhancements (database integration, interface design etc.) in the documentation 
+* Upload all documents to GitHub & Canvas
+
+---
+
+Action Items:
+
+* Madina Maingua: Finalize backend integration and organize repository
+* Chukwudera: Complete and verify test cases section
+* Sayed: Finalize UML diagrams
+* Nathaniel Joseph: Review and finalize report document
+* Yashwanth: Assist with documentation formatting
+* Alvin: Review final deliverable and submit
+
+---
+
+Next Steps:
+
+* Submit Deliverable 5 by April 26, 11:59 PM
+* Review code for any last-minute errors
+
+---
+
+Notes:
+
+* The system works perfectly and conforms to all required specifications
+* Collaboration among team members was efficient at all stages
+* Small adjustments could be made during future phases, specifically with UI and NLP
+
+---
+
+End of Meeting
 
